@@ -1,0 +1,5 @@
+A simple file shredder;
+
+Overwrite files or entire folder with empty or random bytes then delete them.
+
+Coded by Bleddyn Baker bleddynbaker@hotmail.co.uk
